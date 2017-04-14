@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Ks Tans](https://up.htmlacademy.ru/htmlcss/17/user/131654).
-* Наставник: `Неизвестно`.
+* Наставник: [Макс Масленко](https://htmlacademy.ru/profile/biggus-dickus).
 
 ---
 
